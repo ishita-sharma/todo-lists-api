@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.todo.services.impl.TodoListServiceImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-07T11:18:29" hostname="isharma-mac.fritz.box" time="0.422">
+  <properties/>
+  <testcase name="createItems()" classname="com.todo.services.impl.TodoListServiceImplTest" time="0.415"/>
+  <testcase name="createTodoList()" classname="com.todo.services.impl.TodoListServiceImplTest" time="0.004"/>
+  <testcase name="getTodoList()" classname="com.todo.services.impl.TodoListServiceImplTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
